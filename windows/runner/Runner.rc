@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "last_try" "\0"
+            VALUE "FileDescription", "oruphone" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "last_try" "\0"
+            VALUE "InternalName", "oruphone" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2025 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "last_try.exe" "\0"
-            VALUE "ProductName", "last_try" "\0"
+            VALUE "OriginalFilename", "oruphone.exe" "\0"
+            VALUE "ProductName", "oruphone" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

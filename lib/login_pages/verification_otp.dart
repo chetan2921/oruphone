@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:last_try/login_pages/name_page.dart';
-import 'package:last_try/services/api_call.dart';
+import 'package:oruphone/login_pages/name_page.dart';
+import 'package:oruphone/services/api_call.dart';
 import 'package:pin_code_fields/pin_code_fields.dart';
 
 class Loginpage1CopyWidget extends StatefulWidget {

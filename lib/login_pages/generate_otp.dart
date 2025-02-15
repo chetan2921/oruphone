@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:last_try/login_pages/verification_otp.dart';
-import 'package:last_try/models/loginpage1_model.dart';
-import 'package:last_try/services/api_call.dart';
+import 'package:oruphone/login_pages/verification_otp.dart';
+import 'package:oruphone/models/loginpage1_model.dart';
+import 'package:oruphone/services/api_call.dart';
 
 class Loginpage1Widget extends StatefulWidget {
   const Loginpage1Widget({super.key, required String userName});

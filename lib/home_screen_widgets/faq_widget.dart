@@ -3,6 +3,8 @@ import 'package:http/http.dart' as http;
 import 'dart:convert';
 
 class FaqWidget extends StatelessWidget {
+  const FaqWidget({super.key});
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(

@@ -1,4 +1,4 @@
-package com.example.last_try
+package com.example.oruphone
 
 import io.flutter.embedding.android.FlutterActivity
 

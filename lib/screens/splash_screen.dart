@@ -1,6 +1,6 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
-import 'package:last_try/login_pages/generate_otp.dart';
+import 'package:oruphone/login_pages/generate_otp.dart';
 import 'package:lottie/lottie.dart';
 
 class SplashScreen extends StatefulWidget {

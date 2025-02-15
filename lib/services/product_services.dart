@@ -1,7 +1,7 @@
 import 'dart:convert';
 
 import 'package:http/http.dart' as http;
-import 'package:last_try/models/product_model.dart';
+import 'package:oruphone/models/product_model.dart';
 
 class ProductService {
   static Future<List<Product>> fetchProducts(

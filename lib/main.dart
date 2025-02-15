@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:last_try/screens/splash_screen.dart';
+import 'package:oruphone/screens/splash_screen.dart';
 
 void main() {
   runApp(MyApp());

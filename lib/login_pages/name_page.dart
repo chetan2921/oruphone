@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:last_try/screens/home_screen.dart'; // Import your home screen
+import 'package:oruphone/screens/home_screen.dart'; // Import your home screen
 
 class NameInput extends StatefulWidget {
   const NameInput({super.key, required this.name});

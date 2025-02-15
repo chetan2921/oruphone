@@ -2,15 +2,15 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 
-import 'package:last_try/bottom_screen/generate_otp_bottom.dart';
-import 'package:last_try/home_screen_widgets/banner_widget.dart';
-import 'package:last_try/home_screen_widgets/brand_widget.dart';
-import 'package:last_try/home_screen_widgets/faq_widget.dart';
-import 'package:last_try/home_screen_widgets/filter_widget.dart';
-import 'package:last_try/home_screen_widgets/product_widget.dart';
-import 'package:last_try/home_screen_widgets/row1_widget.dart';
-import 'package:last_try/home_screen_widgets/row2_widget.dart';
-import 'package:last_try/home_screen_widgets/search_box_widget.dart';
+import 'package:oruphone/bottom_screen/generate_otp_bottom.dart';
+import 'package:oruphone/home_screen_widgets/banner_widget.dart';
+import 'package:oruphone/home_screen_widgets/brand_widget.dart';
+import 'package:oruphone/home_screen_widgets/faq_widget.dart';
+import 'package:oruphone/home_screen_widgets/filter_widget.dart';
+import 'package:oruphone/home_screen_widgets/product_widget.dart';
+import 'package:oruphone/home_screen_widgets/row1_widget.dart';
+import 'package:oruphone/home_screen_widgets/row2_widget.dart';
+import 'package:oruphone/home_screen_widgets/search_box_widget.dart';
 
 class HomePageWidget extends StatefulWidget {
   const HomePageWidget({super.key, this.userName});

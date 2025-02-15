@@ -1,8 +1,8 @@
 // otp_bottom_sheet.dart
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:last_try/services/api_call.dart';
-import 'package:last_try/login_pages/verification_otp.dart';
+import 'package:oruphone/services/api_call.dart';
+import 'package:oruphone/login_pages/verification_otp.dart';
 
 class OtpBottomSheet extends StatefulWidget {
   final VoidCallback? onSuccess;

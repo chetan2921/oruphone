@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:last_try/models/product_model.dart';
-import 'package:last_try/services/product_services.dart';
+import 'package:oruphone/models/product_model.dart';
+import 'package:oruphone/services/product_services.dart';
 
 class ProductListScreen extends StatefulWidget {
   const ProductListScreen({super.key});
@@ -147,7 +147,7 @@ class _ProductListScreenState extends State<ProductListScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: Colors.white,
-      body: Container(
+      body: SizedBox(
         height: 400,
         child: Column(
           children: [

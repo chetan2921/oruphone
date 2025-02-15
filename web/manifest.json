@@ -1,6 +1,6 @@
 {
-    "name": "last_try",
-    "short_name": "last_try",
+    "name": "oruphone",
+    "short_name": "oruphone",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
